@@ -1,3 +1,4 @@
-# web_projects
-Repository with my sites
-This site was written in HTML, CSS, JS, and PHP. It was created as a student project. Includes a link to my autobiography
+# footbal-real site 
+Is two-in-one site  
+U have to press index.html  
+Second site has button at the bottom of the first site (Лукашевич Александр)
